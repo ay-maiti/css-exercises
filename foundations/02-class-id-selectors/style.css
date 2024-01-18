@@ -1,0 +1,18 @@
+.odd{
+    background-color: rgba(180, 60, 112, 0.504);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#even1{
+    color:rgb(48, 48, 151);
+    font-size: 36px;
+}
+
+#even2{
+    background-color: rgb(117, 195, 117);
+    font-weight:750;
+}
+
+.special{
+    font-size: 24px;
+}
